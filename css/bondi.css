@@ -73,6 +73,8 @@ button {
 .landing {
     background-color: var(--dark-color);
     height: calc(100vh - 70px);
+} .landing h1{
+    min-width: 400px;
 }
 
 .landing .content {
